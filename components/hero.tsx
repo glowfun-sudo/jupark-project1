@@ -38,8 +38,8 @@ export function Hero() {
   const defaultInfo = {
     greeting: "안녕하세요,",
     name: "박정우",
-    title: "부동산.건설 대학원 학생 입니다.",
-    description: "",
+    title: "부동산.건설 대학원",
+    description: "학생 입니다",
     profileImage: "/uploads/hero-profile-1762672905119.jpeg",
     backgroundImage: "",
     backgroundVideo: "",

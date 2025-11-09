@@ -97,7 +97,7 @@ export function About() {
   // 기본 데이터
   const defaultInfo = {
     title: "소개",
-    subtitle: "당신의 전문성과 열정을 소개해주세요.",
+    subtitle: "저를 소개 하겠습니다.",
     background: {"image":"","video":"","color":"","opacity":0.1},
     experienceCards: [{"icon":"briefcase","title":"케이와이도시개발(주)","period":"20202- 현재","description":"관리사업부"},{"icon":"graduation","title":"단국대학교 부동산.건설대학원","period":"2025~","description":"부동산경영"}],
     skills: [{"icon":"code","title":"프론트엔드 개발","description":"React, TypeScript, Next.js를 활용한 모던 웹 개발"},{"icon":"database","title":"백엔드 개발","description":"Node.js, Python, 데이터베이스 설계 및 구현"},{"icon":"palette","title":"UI/UX 디자인","description":"사용자 중심의 인터페이스 디자인"}],
