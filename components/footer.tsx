@@ -23,7 +23,7 @@ export function Footer() {
   // 기본 데이터
   const defaultInfo = {
     showFooter: true,
-    name: "당신의 이름",
+    name: "",
     description: "",
     showQuickLinks: true,
     quickLinksTitle: "",
@@ -31,7 +31,7 @@ export function Footer() {
     contactTitle: "연락처",
     phone: "",
     email: "",
-    location: "당신의 위치",
+    location: "",
     copyright: "",
     showMadeWith: true,
     madeWithLocation: "Mrbaeksang",
