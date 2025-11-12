@@ -45,7 +45,7 @@ export function Contact() {
     workTime: "",
     responseTime: "",
     sectionTitle: "연락처",
-    sectionSubtitle: "편하게 연락주세요!",
+    sectionSubtitle: "연락처",
     qrTitle: "QR 코드로 연락처 저장",
     qrSubtitle: "스캔하면 연락처가 자동으로 저장됩니다",
     bottomMessage: "좋은 하루되세요~",

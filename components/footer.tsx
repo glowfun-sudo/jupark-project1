@@ -26,7 +26,7 @@ export function Footer() {
     name: "",
     description: "",
     showQuickLinks: true,
-    quickLinksTitle: "",
+    quickLinksTitle: "프로젝트",
     showContactInfo: true,
     contactTitle: "연락처",
     phone: "",

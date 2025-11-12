@@ -14,7 +14,7 @@ export function Projects() {
   // 기본 데이터
   const defaultInfo = {
     title: "프로젝트",
-    subtitle: "천안신방구룡구역 도시개발사업",
+    subtitle: "프로젝트",
     initialDisplay: 6,
     loadMoreCount: 3,
     background: {"image":"","video":"","color":"","opacity":0.1},
