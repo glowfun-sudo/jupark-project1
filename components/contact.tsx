@@ -38,7 +38,7 @@ export function Contact() {
     title: "",
     company: "",
     experience: "",
-    phone: "",
+    phone: "010-2201-****",
     email: "",
     website: "",
     location: "",

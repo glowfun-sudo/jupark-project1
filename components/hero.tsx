@@ -38,8 +38,8 @@ export function Hero() {
   const defaultInfo = {
     greeting: "안녕하세요,",
     name: "박정우",
-    title: "부동산.건설 대학원",
-    description: "도시개발사업을 연구하는 석사과정생 입니다.",
+    title: "부동산.건설 대학원 37기",
+    description: "도시개발사업을 연구하는 석사생 입니다.",
     profileImage: "/uploads/hero-profile-1762680193562.png",
     backgroundImage: "",
     backgroundVideo: "",
